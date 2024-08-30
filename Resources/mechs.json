@@ -1,0 +1,11 @@
+{
+    "Marauder_RAPTOR_MDL": {
+        "quirks": [
+            "RAPTOR_ROLE_ADAPTIVE",
+            "RAPTOR_ARMOR",
+            "RAPTOR_MOBILITY",
+            "RAPTOR_SENSORS",
+            "RAPTOR_WEAPONS"
+        ]
+    }
+}

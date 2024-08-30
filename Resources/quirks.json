@@ -1,0 +1,107 @@
+{
+	"RAPTOR_ROLE_ADAPTIVE": {
+		"name": "Role Adaptive",
+		"description": "The RAPTOR is easy to work on and designed to be quickly refitted using prototype technology lost and unknown from the SLDF era.  Repairs, especially to the structure are expensive due to the flexibility of it's hardpoints and internals.",
+		"color": "(R=0.208333,G=0.243547,B=1.000000,A=1)",
+		"properties": {
+			"structureRepairCostMulti": 4.0,
+			"structureRepairDaysMulti": 1.25,
+			"armorRepairCostMulti": 2.0,
+			"armorRepairDaysMulti": 0.5,
+			"equipmentRefitCostMulti": 0.2,
+			"equipmentRefitDaysMulti": 0.2,
+			"upkeepCostMulti": 0.2
+		}
+	},
+	"RAPTOR_ARMOR": {
+		"name": "Reinforced Armor",
+		"description": "The RAPTOR is constructed with a high density armor and structure.  It is also shaped to present a very narrow profile and has composites to reduce its radar signature and makes the 'Mech harder to target.",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"dmgEvasionChance": 0.25,
+			"caseLevel": 1,
+			"armorBonus": {
+				"Head": 8,
+				"CenterTorso": 20,
+				"RightTorso": 20,
+				"LeftTorso": 20,
+				"RightArm": 16,
+				"LeftArm": 16,
+				"RightLeg": 16,
+				"LeftLeg": 16
+			},
+			"structureBonus": {
+				"Head": 8,
+				"CenterTorso": 20,
+				"RightTorso": 12,
+				"LeftTorso": 12,
+				"RightArm": 12,
+				"LeftArm": 12,
+				"RightLeg": 16,
+				"LeftLeg": 16
+			}
+		}
+	},
+	"RAPTOR_MOBILITY": {
+		"name": "Enhanced Mobility",
+		"description": "This 'Mech is designed to be extremely mobile.",
+		"color": "(R=0.074510,G=0.211765,B=0.062745,A=1)",
+		"properties": {
+			"topSpeedMulti": 1.3,
+			"accelerationMulti": 1.5,
+			"decelerationMulti": 1.5,
+			"jumpJetFuelBurnTimeMulti": 2.5,
+			"jumpJetInitialZVelocityMulti": 2.0,
+			"jumpJetXyAccelMulti": 1.5,
+			"jumpJetHeatMulti": 0.8,
+			"jumpJetFuelRegenTimeMulti": 0.8
+		}
+	},
+	"RAPTOR_SENSORS": {
+		"name": "Enhanced Sensors",
+		"description": "This 'Mech has an exceptionally powerful communications suite and gains a benefit to sensor range.",
+		"color": "(R=0.000000,G=0.360784,B=1.000000,A=1)",
+		"properties": {
+			"sensorRangeBonus": 600,
+			"sensorFOV": 360,
+			"lockonTimeMulti": 0.75,
+			"hasEnhancedIRVision": true,
+			"hasBasicUAV": 2
+		}
+	},
+	"RAPTOR_WEAPONS": {
+		"name": "Weapon Proficiency",
+		"description": "This 'Mech chassis has optimized components for Ballistic and Energy type weapons.",
+		"color": "(R=0.031373,G=0.227451,B=1.000000,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Ballistic",
+						"tags": [
+							"Weapon.Ballistic"
+						],
+						"ammoMulti": 1.5,
+						"heatMulti": 0.9,
+						"cooldownMulti": 0.9,
+						"optimalRangeMulti": 1.2,
+						"maxRangeMulti": 1.2,
+						"speedMulti": 1.25,
+						"damageMulti": 1.25
+					},
+					{
+						"weaponGroupName": "Energy",
+						"tags": [
+							"Weapon.Energy"
+						],
+						"heatMulti": 0.75,
+						"durationMulti": 0.75,
+						"cooldownMulti": 0.9,
+						"optimalRangeMulti": 1.1,
+						"maxRangeMulti": 1.1
+					}
+				]
+			}
+		}
+	}
+}

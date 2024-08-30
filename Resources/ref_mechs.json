@@ -1,0 +1,1881 @@
+{
+	"SavageWolf_MDL": {
+		"quirks": [
+			"STABLE",
+			"NON-STANDARD-PARTS",
+			"PROTECTED-ACTUATOR",
+			"clan-mech-savagewolf"
+		]
+	},
+	"Annihilator_MDL": {
+		"maxEngineRating": 300,
+		"quirks": [
+			"EASYTOMAINTAIN"
+		]
+	},
+    "ANH-1P": {
+        "loadout": "ANH-1P_Loadout_YAWUpgrade"
+    },
+	"ANH-MB": {
+        "loadout": "ANH-MB_Loadout_YAWUpgrade",
+		"quirks": [
+			"ANH-MB",
+			"ANH-HERO"
+		]
+	},
+	"Archer_MDL": {
+		"maxEngineRating": 340,
+		"quirks": [
+			"BATTLEFISTS",
+			"CMD-MECH",
+			"STABLE",
+			"UBIQUITOUS",
+			"ARC-LRM"
+		]
+	},
+	"ARC-2Rb": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"ARC-2P": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"ARC-T": {
+		"quirks": [
+			"ARC-T",
+			"ARC-HERO"
+		]
+	},
+	"ARC-AGC": {
+		"quirks": [
+			"ARC-AGC",
+			"ARC-HERO"
+		]
+	},
+	"Assassin_MDL": {
+		"maxEngineRating": 365,
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"CRAMPED-COCKPIT",
+			"NON-STANDARD-PARTS",
+			"POOR-LIFE-SUPPORT"
+		]
+	},
+	"ASN-25": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"ASN-DD": {
+		"quirks": [
+			"ASN-DD",
+			"ASN-HERO"
+		]
+	},
+	"ASN-W": {
+		"maxEngineRating": 380,
+		"quirks": [
+			"ASN-W",
+			"ASN-HERO"
+		]
+	},
+	"Atlas_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"BATTLEFISTS",
+			"CMD-MECH",
+			"DISTRACTING",
+			"IMPROVED-COMS"
+		]
+	},
+	"Atlas-II_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"BATTLEFISTS",
+			"CMD-MECH",
+			"DISTRACTING"
+		]
+	},
+	"AtlasNorn_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"BATTLEFISTS",
+			"CMD-MECH",
+			"DISTRACTING",
+			"IMPROVED-COMS"
+		]
+	},
+	"AtlasFDR_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"BATTLEFISTS",
+			"CMD-MECH",
+			"DISTRACTING",
+			"IMPROVED-COMS"
+		]
+	},
+	"AS7-P": {
+		"maxEngineRating": 400,
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"AS7-S (L)": {
+		"quirks": [
+			"AS7-HERO"
+		]
+	},
+	"AS7-D (F)": {
+		"quirks": [
+			"AS7-HERO"
+		]
+	},
+	"AS7-BH": {
+		"maxEngineRating": 400,
+		"quirks": [
+			"AS7-BH",
+			"AS7-HERO"
+		]
+	},
+	"AS7-D-H": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"AS7-D-Y": {
+		"quirks": [
+			"AS7-D-Y",
+			"SLDF",
+			"AS7-HERO"
+		]
+	},
+	"AS7-KR": {
+		"quirks": [
+			"AS7-KR",
+			"AS7-HERO"
+		]
+	},
+	"AS7-K3": {
+        "loadout": "AS7-K3_Loadout_YAWUpgrade",
+		"maxEngineRating": 400,
+		"quirks": [
+			"AS7-K3"
+		]
+	},
+	"Awesome_MDL": {
+		"maxEngineRating": 300,
+		"quirks": [
+			"BATTLEFISTS",
+			"AWS-PPC"
+		]
+	},
+	"AWS-8V-MDA-AIV": {
+		"quirks": [
+			"AIV-PLATFORM"
+		]
+	},
+	"AWS-9M": {
+		"maxEngineRating": 385
+	},
+	"AWS-PB": {
+		"maxEngineRating": 400,
+		"quirks": [
+			"AWS-PB",
+			"AWS-HERO"
+		]
+	},
+	"Banshee_MDL": {
+		"maxEngineRating": 400,
+		"quirks": [
+			"RUGGED1",
+			"BNC-MELEE"
+			]
+	},
+	"BNC-1E": {
+		"quirks": [
+			"DISTRACTING",
+			"EASYTOMAINTAIN"
+		]
+	},
+	"BNC-2P": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"BNC-LM": {
+		"quirks": [
+			"BNC-LM",
+			"BNC-HERO"
+		]
+	},
+	"BNC-SR": {
+		"quirks": [
+			"BNC-SR",
+			"BNC-HERO"
+		]
+	},
+	"Battlemaster_MDL": {
+		"maxEngineRating": 400,
+		"quirks": [
+			"CMD-MECH",
+			"WEAK-HEAD-1"
+		]
+	},
+	"BLR-1M": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"BLR-1G-S": {
+		"quirks": [
+			"OTOMO1"
+		]
+	},
+	"BLR-1GHE": {
+		"quirks": [
+			"SLDF",
+			"BLR-1GHE",
+			"BLR-HERO"
+		]
+	},
+	"BLR-1G (P)": {
+		"quirks": [
+			"CMD-MECH",
+			"BLR-HERO"
+		]
+	},
+	"BlackKnight_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"CMD-MECH"
+		]
+	},
+	"BL-6B-KNT": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"BL-7-KNT-P": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"BL-P-KNT": {
+		"quirks": [
+			"BL-P-KNT",
+			"BL-HERO"
+		]
+	},
+	"BL-P-KNT2": {
+		"maxEngineRating": 400,
+		"quirks": [
+			"MELEE",
+			"BL-P-KNT2",
+			"BL-HERO"
+		]
+	},
+	"BL-G-KNT": {
+		"quirks": [
+			"BL-G-KNT",
+			"BL-HERO"
+		]
+	},
+	"BL-6-KNT (R)": {
+		"quirks": [
+			"CMD-MECH",
+			"BL-HERO"
+		]
+	},
+	"Blackjack_MDL": {
+		"maxEngineRating": 235,
+		"quirks": [
+			"IMPROVED-TARGETING"
+		]
+	},
+	"BJ-1X": {
+		"maxEngineRating": 295
+	},
+	"BJ-A": {
+		"quirks": [
+			"BJ-A",
+			"BJ-HERO"
+		]
+	},
+	"Cataphract_MDL":{
+		"maxEngineRating": 340,
+		"quirks": [
+			"PROTECTED-ACTUATOR"
+		]
+	},
+	"CTF-0X": {
+		"quirks": [
+			"CMD-MECH"
+		]
+	},
+	"CTF-0XP": {
+		"quirks": [
+			"CMD-MECH"
+		]
+	},
+	"CTF-2P": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"CTF-VE1": {
+		"quirks": [
+			"SOLARIS"
+		]
+	},
+	"CTF-IM": {
+		"quirks": [
+			"CTF-IM",
+			"CTF-HERO"
+		]
+	},
+	"Catapult_MDL": {
+		"maxEngineRating": 315,
+		"quirks": [
+			"NIMBLEJUMPER",
+			"MISSILEBOAT",
+			"WEAK-HEAD-1"
+		]
+	},
+    "CPLT-C2": {
+        "loadout": "CPLT-C2_Loadout_YAWUpgrade"
+    },
+	"CPLT-K2-S": {
+		"maxEngineRating": 325,
+		"quirks": [
+			"OTOMO1"
+		]
+	},
+	"CPLT-C1B": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"CPLT-J": {
+		"maxEngineRating": 355,
+		"quirks": [
+			"CPLT-J",
+			"CPLT-HERO"
+		]
+	},
+	"CPLT-BB": {
+		"quirks": [
+			"CPLT-BB",
+			"CPLT-HERO"
+		]
+	},
+	"CPLT-C1 (F)": {
+		"quirks": [
+			"NIMBLEJUMPER",
+			"MISSILEBOAT",
+			"CPLT-HERO"
+		]
+	},
+	"CPLT-K2": {
+		"quirks": [
+			"PPC-Platform"
+		],
+		"comment": "added PPC-Platform based on variant loadout"
+	},
+	"CPLT-K2K": {
+		"quirks": [
+			"PPC-Platform"
+		],
+		"comment": "added PPC-Platform based on variant loadout"
+	},
+	"CPLT-K3": {
+		"quirks": [
+			"PPC-Platform"
+		],
+		"comment": "added PPC-Platform based on variant loadout"
+	},
+	"Centurion_MDL": {
+		"maxEngineRating": 275,
+		"quirks": [
+			"IMPROVED-TARGETING",
+			"NON-STANDARD-PARTS",
+			"CN9-SHIELD"
+		]
+	},
+	"CN9-D": {
+		"maxEngineRating": 390
+	},
+	"CN9-P": {
+		"maxEngineRating": 325,
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"CN9-YLW": {
+		"maxEngineRating": 300,
+		"quirks": [
+			"CN9-YLW",
+			"CN9-HERO"
+		]
+	},
+	"CN9-YLW2": {
+		"maxEngineRating": 300,
+		"quirks": [
+			"MELEE",
+			"CN9-YLW",
+			"CN9-HERO"
+		]
+	},
+	"CN9-CALM": {
+		"maxEngineRating": 390,
+		"quirks": [
+			"MELEE",
+			"CN9-CALM",
+			"CN9-HERO"
+		]
+	},
+	"Champion_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"EASY-PILOT"
+		]
+	},
+	"CHP-1NB": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"CHP-3N": {
+		"quirks": [
+			"CLANBUSTER"
+		]
+	},
+	"CHP-INV": {
+        "loadout": "CHP-INV_Loadout_YAWUpgrade",
+		"quirks": [
+			"CHP-INV",
+			"CHP-HERO"
+		]
+	},
+	"Charger_MDL": {
+		"maxEngineRating": 400,
+		"quirks": [
+			"UAV-CARRIER",
+			"BARREL-FIST (L)",
+			"EASYTOMAINTAIN"
+		]
+	},
+	"CGR-3K-S": {
+		"quirks": [
+			"OTOMO1"
+		]
+	},
+	"CGR-1P5": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"CGR-N7": {
+		"quirks": [
+			"CGR-N7",
+			"CGR-HERO"
+		]
+	},
+	"CGR-SLDF": {
+		"quirks": [
+			"SLDF",
+			"CGR-HERO"
+		]
+	},
+	"Cicada_MDL": {
+		"maxEngineRating": 340,
+		"quirks": [
+			"EASY-PILOT",
+			"ENERGYPROF"
+		]
+	},
+	"CDA-X5": {
+		"quirks": [
+			"CDA-X5",
+			"CDA-HERO"
+		]
+	},
+	"Commando_MDL": {
+		"maxEngineRating": 240,
+		"quirks": [
+			"NARROW-PROFILE",
+			"EXP-ACTUATOR"
+		]
+	},
+	"COM-TDK": {
+		"quirks": [
+			"COM-TDK",
+			"COM-HERO"
+		]
+	},
+	"Corsair_MDL": {
+		"maxEngineRating": 345,
+		"quirks": [
+			"UAV-CARRIER",
+			"SEARCHLIGHT",
+			"EASYTOMAINTAIN",
+			"RUGGED1"
+		]
+	},
+	"COR-RA": {
+		"quirks": [
+			"COR-RA",
+			"COR-HERO"
+		]
+	},
+	"COR-LZ": {
+		"quirks": [
+			"SOLARIS",
+			"COR-HERO"
+		]
+	},
+	"COR-XT1": {
+		"quirks": [
+			"SOLARIS"
+		]
+	},
+	"COR-PVT": {
+		"quirks": [
+			"COR-PVT",
+			"COR-HERO"
+		]
+	},
+	"COR-ROAM": {
+		"scale": "X=1.08 Y=1.08 Z=1.08",
+		"quirks": [
+			"ANTIAIR-TARGETING",
+			"COR-ROAM",
+			"COR-HERO"
+		]
+	},
+	"Crab_MDL": {
+		"maxEngineRating": 325,
+		"quirks": [
+			"EASYTOMAINTAIN"
+		]
+	},
+	"CRB-20": {
+		"maxEngineRating": 350
+	},
+	"CRB-27B": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"CRB-27SL": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"CRB-FL": {
+		"quirks": [
+			"CRB-FL",
+			"CRB-HERO"
+		]
+	},
+	"Crusader_MDL": {
+		"maxEngineRating": 315,
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"RUGGED1",
+			"UBIQUITOUS",
+			"STABILIZED-WEAPON"
+		]
+	},
+    "CRD-7L": {
+        "loadout": "CRD-7L_Loadout_YAWUpgrade"
+    },
+	"CRD-2R": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"CRD-6T": {
+		"maxEngineRating": 370
+	},
+	"CRD-SA2": {
+		"quirks": [
+			"SOLARIS"
+		]
+	},
+	"CRD-CR": {
+		"quirks": [
+			"CRD-HERO",
+			"CRD-CR"
+		]
+	},
+	"CRD-CR2": {
+		"quirks": [
+			"CRD-HERO",
+			"CRD-CR2"
+		]
+	},
+	"Cyclops_MDL": {
+		"maxEngineRating": 400,
+		"quirks": [
+			"BATTLECOMP",
+			"COWL",
+			"DIFFICULT-EJECT",
+			"WEAK-HEAD-2"
+		]
+	},
+	"CP-10-P": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"CP-S": {
+		"quirks": [
+			"CP-S",
+			"CP-HERO"
+		]
+	},
+	"CP-TTB": {
+		"quirks": [
+			"MELEE",
+			"CP-TTB",
+			"CP-HERO"
+		]
+	},
+	"Dervish_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"HYPER-EXT-ACTUATOR"
+		]
+	},
+    "DV-7P": {
+        "loadout": "DV-7P_Loadout_YAWUpgrade"
+    },
+    "DV-8D": {
+        "loadout": "DV-8D_Loadout_YAWUpgrade"
+    },
+	"DV-FR": {
+		"quirks": [
+			"DV-FR",
+			"DV-HERO"
+		]
+	},
+	"Dragon_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"NARROW-PROFILE",
+			"STABLE"
+		]
+	},
+	"DRG-1G-S": {
+		"maxEngineRating": 380,
+		"quirks": [
+			"OTOMO1"
+		]
+	},
+	"DRG-FANG": {
+		"quirks": [
+			"DRG-FANG",
+			"DRG-HERO"
+		]
+	},
+	"DRG-FLAME": {
+		"quirks": [
+			"DRG-FLAME",
+			"DRG-HERO"
+		]
+	},
+	"DRG-SDW": {
+		"quirks": [
+			"DRG-SDW",
+			"DRG-HERO"
+		]
+	},
+	"GDRG-1G": {
+		"quirks": [
+			"NARROW-PROFILE",
+			"STABLE",
+			"DRG-HERO"
+		]
+	},
+	"Enforcer_MDL": {
+		"quirks": [
+			"BARREL-FISTS",
+			"FAST-RELOAD-RARM",
+			"IMP-COOLING-B",
+			"JAM-RARM"
+		]
+	},
+	"ENF-4R": {
+		"maxEngineRating": 260
+	},
+	"ENF-4P": {
+		"maxEngineRating": 350
+	},
+	"ENF-5P": {
+		"maxEngineRating": 325,
+		"quirks": [
+			"JAM-LARM"
+		]
+	},
+	"ENF-5D": {
+		"maxEngineRating": 325
+	},
+	"ENF-GH": {
+		"maxEngineRating": 300,
+		"quirks": [
+			"ENF-GH",
+			"ENF-HERO"
+		]
+	},
+	"Firestarter_MDL": {
+		"maxEngineRating": 295,
+		"quirks": [
+			"UBIQUITOUS",
+			"EXPOSED-LINKAGE",
+			"FIRESTARTER"
+		]
+	},
+	"FS9-X1": {
+		"quirks": [
+			"SOLARIS"
+		]
+	},
+	"FS9-E": {
+		"quirks": [
+			"FS9-E",
+			"FS9-HERO"
+		]
+	},
+	"FS9-FS": {
+		"quirks": [
+			"FS9-FS",
+			"FS9-HERO"
+		]
+	},
+	"Flea_MDL": {
+		"maxEngineRating": 170,
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"HARD-PILOT",
+			"IMP-LIFE-SUPPORT"
+		]
+	},
+	"FLE-15": {
+		"maxEngineRating": 180
+	},
+	"FLE-19": {
+        "loadout": "FLE-19_Loadout_YAWUpgrade",
+		"maxEngineRating": 180
+	},
+    "FLE-20": {
+        "loadout": "FLE-20_Loadout_YAWUpgrade"
+    },
+	"FLE-R5K": {
+        "loadout": "FLE-R5K_Loadout_YAWUpgrade",
+		"maxEngineRating": 180,
+		"quirks": [
+			"FLE-R5K",
+			"FLE-HERO"
+		]
+	},
+	"Grasshopper_MDL": {
+		"maxEngineRating": 340,
+		"quirks": [
+			"RUGGED1"
+		]
+	},
+	"GHR-5M": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"GHR-MJ": {
+		"quirks": [
+			"GHR-MJ",
+			"GHR-HERO"
+		]
+	},
+	"GHR-5J": {
+		"maxEngineRating": 365
+	},
+	"GHR-5J (R)": {
+		"maxEngineRating": 365,
+		"quirks": [
+			"RUGGED1",
+			"GHR-HERO"
+		]
+	},
+	"Griffin_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"BATTLEFISTS",
+			"RUGGED1",
+			"UBIQUITOUS"
+		]
+	},
+    "GRF-5M": {
+        "loadout": "GRF-5M_Loadout_YAWUpgrade"
+    },
+	"GRF-1P": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"GRF-2N": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"GRF-1E": {
+		"quirks": [
+			"GRF-1E",
+			"GRF-HERO"
+		]
+	},
+	"GRF-AR": {
+		"quirks": [
+			"GRF-AR",
+			"GRF-HERO"
+		]
+	},
+	"GRF-1N (P)": {
+		"quirks": [
+			"BATTLEFISTS",
+			"RUGGED1",
+			"UBIQUITOUS",
+			"GRF-HERO"
+		]
+	},
+	"GRF-1S": {
+		"quirks": [
+			"PROTECTED-ACTUATOR"
+		]
+	},
+	"Hatchetman_MDL": {
+		"maxEngineRating": 300,
+		"quirks": [
+			"ANTIAIR-TARGETING",
+			"MELEE"
+		]
+	},
+	"HCT-MA": {
+		"quirks": [
+			"HCT-MA",
+			"HCT-HERO"
+		]
+	},
+	"Hatamotochi_MDL": {
+		"maxEngineRating": 325,
+		"quirks": [
+			"BARREL-FIST (L)",
+			"EASYTOMAINTAIN",
+			"MODULAR-WEAPONS"
+		]
+	},
+    "HTM-28TR": {
+        "loadout": "HTM-28TR_Loadout_YAWUpgrade"
+    },
+	"HTM-26T-S": {
+		"maxEngineRating": 400,
+		"quirks": [
+			"OTOMO1"
+		]
+	},
+	"HTM-26P": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"HTM-SG": {
+        "loadout": "HTM-SG_Loadout_YAWUpgrade",
+		"quirks": [
+			"HTM-SG",
+			"HTM-HERO"
+		]
+	},
+	"HTM-ON": {
+		"maxEngineRating": 385,
+		"quirks": [
+			"MELEE",
+			"HTM-ON",
+			"HTM-HERO"
+		]
+	},
+	"HTM-26T (S)": {
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"MODULAR-WEAPONS",
+			"BARREL-FIST (L)",
+			"HTM-HERO"
+		]
+	},
+	"HTM-27T": {
+		"maxEngineRating": 385
+	},
+	"HTM-27W": {
+		"maxEngineRating": 385,
+		"quirks": [
+			"MULTITRAC"
+		]
+	},
+	"Highlander_MDL": {
+		"maxEngineRating": 325,
+		"quirks": [
+			"CMD-MECH",
+			"COWL",
+			"DIFFICULT-EJECT",
+			"REINFORCED-LEGS"
+		]
+	},
+	"HGN-732B": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"HGN-733PP": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"HGN-VEST": {
+		"quirks": [
+			"SOLARIS"
+		]
+	},
+	"HGN-SLDF": {
+		"quirks": [
+			"COWL",
+			"CMD-MECH",
+			"REINFORCED-LEGS",
+			"DIFFICULT-EJECT",
+			"SLDF",
+			"HGN-HERO"
+		]
+	},
+	"HGN-RS": {
+		"maxEngineRating": 330,
+		"quirks": [
+			"MELEE",
+			"HGN-RS",
+			"HGN-HERO"
+		]
+	},
+	"HGN-HM": {
+		"maxEngineRating": 330,
+		"quirks": [
+			"HGN-HM",
+			"HGN-HERO"
+		]
+	},
+	"HGN-LV": {
+		"quirks": [
+			"HGN-LV",
+			"HGN-HERO"
+		]
+	},
+	"Hunchback_MDL": {
+		"maxEngineRating": 275,
+		"quirks": [
+			"BATTLEFISTS"
+		]
+	},
+	"Hunchback-II_MDL": {
+		"maxEngineRating": 275,
+		"quirks": [
+			"BATTLEFISTS"
+		]
+	},
+	"HunchbackFDR_MDL": {
+		"maxEngineRating": 275,
+		"quirks": [
+			"BATTLEFISTS"
+		]
+	},
+	"HBK-VEST": {
+		"quirks": [
+			"SOLARIS"
+		]
+	},
+	"HBK-4HP": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"HBK-GI": {
+		"quirks": [
+			"HBK-GI",
+			"HBK-HERO"
+		]
+	},
+	"HBK-4G (F)": {
+		"quirks": [
+			"HBK-HERO"
+		]
+	},
+	"Jagermech_MDL": {
+		"maxEngineRating": 315,
+		"quirks": [
+			"ANTIAIR-TARGETING"
+		]
+	},
+	"JM6-FB": {
+		"maxEngineRating": 340,
+		"quirks": [
+			"JM6-FB",
+			"JM6-HERO"
+		]
+	},
+	"Javelin_MDL": {
+		"maxEngineRating": 255,
+		"quirks": [
+			"UNBALANCED"
+		]
+	},
+	"JVN-10N": {
+		"maxEngineRating": 285
+	},
+	"JVN-11AA": {
+		"quirks": [
+			"ANTIAIR-TARGETING",
+			"JVN-11AA"
+		]
+	},
+	"JVN-10F": {
+		"maxEngineRating": 285
+	},
+	"JVN-HT": {
+		"quirks": [
+			"JVN-HT",
+			"JVN-HERO"
+		]
+	},
+	"JVN-WU": {
+		"quirks": [
+			"JVN-WU",
+			"JVN-HERO"
+		]
+	},
+	"Jenner_MDL": {
+		"maxEngineRating": 300,
+		"quirks": [
+			"UBIQUITOUS"
+		]
+	},
+	"JR7-O": {
+		"quirks": [
+			"JR7-O",
+			"JR7-HERO"
+		]
+	},
+	"JR7-D (F)": {
+		"quirks": [
+			"UBIQUITOUS",
+			"JR7-HERO"
+		]
+	},
+	"Kingcrab_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"CMD-MECH",
+			"REINFORCEDCOCKPIT"
+		]
+	},
+	"KGC-000B": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"KGC-001": {
+		"quirks": [
+			"CLANBUSTER"
+		]
+	},
+	"KGC-KJ": {
+		"quirks": [
+			"KGC-KJ",
+			"KGC-HERO"
+		]
+	},
+	"KGC-J": {
+		"quirks": [
+			"KGC-J",
+			"KGC-HERO"
+		]
+	},
+	"KGC-CAR": {
+		"quirks": [
+			"KGC-CAR",
+			"KGC-HERO"
+		]
+	},
+	"Kintaro_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"RUGGED1"
+		]
+	},
+	"KTO-19b": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"KTO-18P": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"KTO-GB": {
+		"quirks": [
+			"KTO-GB",
+			"KTO-HERO"
+		]
+	},
+	"Locust_MDL": {
+		"maxEngineRating": 190,
+		"quirks": [
+			"COMPACT",
+			"NARROW-PROFILE",
+			"CRAMPED-COCKPIT",
+			"LOCUST",
+			"WEAK-LEGS"
+		]
+	},
+	"LCT-1Vb": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"LCT-PB": {
+		"quirks": [
+			"LCT-PB",
+			"LCT-HERO"
+		]
+	},
+	"LCT-1V (P)": {
+		"quirks": [
+			"NARROW-PROFILE",
+			"COMPACT",
+			"CRAMPED-COCKPIT",
+			"LOCUST",
+			"LCT-HERO"
+		]
+	},
+	"Longbow_MDL": {
+		"maxEngineRating": 300,
+		"quirks": [
+			"ANTIAIR-TARGETING",
+			"SEARCHLIGHT",
+			"UBIQUITOUS",
+			"LONGBOWMISSILE"
+		]
+	},
+	"LGB-0W": {
+		"maxEngineRating": 380
+	},
+	"LGB-0W2": {
+		"maxEngineRating": 380
+	},
+	"LGB-10K": {
+        "loadout": "LGB-10K_Loadout_YAWUpgrade",
+		"maxEngineRating": 380
+	},
+	"LGB-HS": {
+		"maxEngineRating": 400,
+		"quirks": [
+			"LGB-HERO",
+			"LGB-HS"
+		]
+	},
+	"Marauder_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"CMD-MECH",
+			"MOUNT-RT",
+			"HYPER-EXT-ACTUATOR",
+			"NARROW-PROFILE",
+			"EXPOSED-LINKAGERT"
+		]
+	},
+    "MAD-9M": {
+        "loadout": "MAD-9M_Loadout_YAWUpgrade"
+    },
+	"MAD-2R": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"MAD-BH2": {
+		"quirks": [
+			"MAD-BH2",
+			"MAD-HERO"
+		]
+	},
+	"MAD-BH": {
+		"quirks": [
+			"MAD-BH",
+			"MAD-HERO"
+		]
+	},
+	"MAD-BARA": {
+		"quirks": [
+			"SEARCHLIGHT",
+			"MAD-BARA",
+			"MAD-HERO"
+		]
+	},
+	"MarauderII_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"CMD-MECH",
+			"HYPER-EXT-ACTUATOR",
+			"NARROW-PROFILE",
+			"EXP-ACTUATOR"
+		]
+	},
+    "MAD-4HP": {
+        "loadout": "MAD-4HP_Loadout_YAWUpgrade"
+    },
+	"MAD-AL": {
+        "loadout": "MAD-AL_Loadout_YAWUpgrade",
+		"quirks": [
+			"MAD-AL",
+			"MAD2-HERO"
+		]
+	},
+	"MAD-TF": {
+		"scale": "X=1.1 Y=1.1 Z=1.1",
+		"quirks": [
+			"MISSILEBOAT",
+			"SEARCHLIGHT",
+			"PREDICTIVE-TARGETING",
+			"MAD-TF",
+			"MAD2-HERO"
+		]
+	},
+	"MAD-BARA2": {
+		"scale": "X=1.1 Y=1.1 Z=1.1",
+		"quirks": [
+			"MISSILEBOAT",
+			"SEARCHLIGHT",
+			"PREDICTIVE-TARGETING",
+			"MAD-BARA2",
+			"MAD-HERO"
+		]
+	},
+	"MenShen_MDL": {
+		"scale": "X=1.3 Y=1.3 Z=1.3",
+		"quirks": [
+			"IMPROVED-COMS",
+			"RVN-SENSOR",
+			"EXP-ACTUATOR"
+		]
+	},
+	"Mauler_MDL": {
+		"maxEngineRating": 325,
+		"quirks": [
+			"STABILIZED-WEAPON"
+		]
+	},
+	"MAL-MX90-S": {
+		"maxEngineRating": 380,
+		"quirks": [
+			"OTOMO1"
+		]
+	},
+	"MAL-KO": {
+		"quirks": [
+			"MAL-KO",
+			"MAL-HERO"
+		]
+	},
+	"MAL-1R (R)": {
+		"quirks": [
+			"STABILIZED-WEAPON",
+			"MAL-HERO"
+		]
+	},
+	"Nightstar_MDL": {
+		"maxEngineRating": 345,
+		"quirks": [
+			"CMD-MECH",
+			"IMPROVED-TARGETING",
+			"NSR-DIFFICULTTOMAINTAIN",
+			"REINFORCEDCOCKPIT"
+		]
+	},
+    "NSR-10P": {
+        "loadout": "NSR-10P_Loadout_YAWUpgrade"
+    },
+    "NSR-9P": {
+        "loadout": "NSR-9P_Loadout_YAWUpgrade"
+    },
+    "NSR-9S": {
+        "loadout": "NSR-9S_Loadout_YAWUpgrade"
+    },
+	"NSR-9FC": {
+		"maxEngineRating": 400
+	},
+	"NSR-9J": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"NSR-WP": {
+        "loadout": "NSR-WP_Loadout_YAWUpgrade",
+		"quirks": [
+			"NSR-WP",
+			"NSR-HERO"
+		]
+	},
+	"NSR-WD": {
+		"quirks": [
+			"NSR-WD",
+			"NSR-HERO"
+		]
+	},
+	"Orion_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"ANTIAIR-TARGETING",
+			"EASYTOMAINTAIN",
+			"RUGGED1"
+
+		]
+	},
+	"ON1-XM1": {
+		"quirks": [
+			"SOLARIS"
+		]
+	},
+	"ON1-P": {
+		"quirks": [
+			"ON1-P",
+			"ON1-HERO"
+		]
+	},
+	"ON1-YAJ": {
+		"quirks": [
+			"ON1-YAJ",
+			"ON1-HERO"
+		]
+	},
+	"Panther_MDL": {
+		"maxEngineRating": 250,
+		"quirks": [
+			"IMPROVED-TARGETING",
+			"NIMBLEJUMPER"
+		]
+	},
+	"PNT-10P": {
+		"maxEngineRating": 300
+	},
+	"PNT-KK": {
+		"quirks": [
+			"PNT-KK",
+			"PNT-HERO"
+		]
+	},
+	"Phoenixhawk_MDL": {
+		"maxEngineRating": 355,
+		"quirks": [
+			"CMD-MECH",
+			"IMPROVED-COMS",
+			"UBIQUITOUS"
+		]
+	},
+	"PXH-1P": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"PXH-1B": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"PXH-KK": {
+		"quirks": [
+			"PXH-KK",
+			"PXH-HERO"
+		]
+	},
+	"PXH-R": {
+		"quirks": [
+			"PXH-R",
+			"PXH-HERO"
+		]
+	},
+	"PXH-KB": {
+		"quirks": [
+			"PXH-KB",
+			"PXH-HERO"
+		]
+	},
+	"Quickdraw_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"HYPER-EXT-ACTUATOR",
+			"EXP-ACTUATOR"
+		]
+	},
+	"QKD-5P": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"QKD-IV4": {
+		"quirks": [
+			"QKD-IV4",
+			"QKD-HERO"
+		]
+	},
+	"QKD-SC": {
+		"quirks": [
+			"MELEE",
+			"QKD-SC",
+			"QKD-HERO"
+		]
+	},
+	"Raven_MDL": {
+		"maxEngineRating": 275,
+		"quirks": [
+			"UAV-CARRIER",
+			"RVN-SENSOR"
+		]
+	},
+	"RVN-3L": {
+		"maxEngineRating": 295
+	},
+	"RVN-H": {
+		"maxEngineRating": 300,
+		"quirks": [
+			"RVN-H",
+			"RVN-HERO"
+		]
+	},
+	"RVN-M": {
+		"maxEngineRating": 300,
+		"quirks": [
+			"RVN-M",
+			"RVN-HERO"
+		]
+	},
+	"Rifleman_MDL": {
+		"maxEngineRating": 290,
+		"quirks": [
+			"ANTIAIR-TARGETING",
+			"IMPROVED-COMS",
+			"SEARCHLIGHT",
+			"UBIQUITOUS"
+		]
+	},
+    "RFL-8D": {
+        "loadout": "RFL-8D_Loadout_YAWUpgrade"
+    },
+	"RFL-DB": {
+		"quirks": [
+			"RFL-DB",
+			"RFL-HERO"
+		]
+	},
+	"RFL-DNA": {
+		"quirks": [
+			"RFL-DNA",
+			"RFL-HERO"
+		]
+	},
+	"RFL-LK": {
+		"quirks": [
+			"RFL-LK",
+			"RFL-HERO"
+		]
+	},
+	"Roughneck_MDL": {
+		"maxEngineRating": 315,
+		"quirks": [
+			"RUGGED1",
+			"UBIQUITOUS"
+		]
+	},
+	"LDK-IDM": {
+		"quirks": [
+			"LDK-IDM",
+			"LDK-HERO"
+		]
+	},
+	"RGH-R": {
+		"quirks": [
+			"RGH-R",
+			"RGH-HERO"
+		]
+	},
+	"RGH-PH": {
+		"quirks": [
+			"RGH-PH",
+			"RGH-HERO"
+		]
+	},
+	"RGH-BL": {
+		"quirks": [
+			"RGH-BL",
+			"RGH-HERO"
+		]
+	},
+	"Shadowhawk_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"BATTLEFISTS",
+			"IMP-LIFE-SUPPORT",
+			"RUGGED1",
+			"UBIQUITOUS"
+		]
+	},
+	"ShadowhawkPHX_MDL": {
+		"quirks": [
+			"BATTLEFISTS",
+			"IMP-LIFE-SUPPORT",
+			"RUGGED1",
+			"UBIQUITOUS"
+		]
+	},
+	"SHD-1P": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"SHD-GD": {
+		"quirks": [
+			"SHD-GD",
+			"SHD-HERO"
+		]
+	},
+	"SHD-2H (P)": {
+		"quirks": [
+			"SHD-2HP",
+			"SHD-HERO"
+		]
+	},
+	"Spider_MDL": {
+		"maxEngineRating": 285,
+		"quirks": [
+			"NO-EJECT",
+			"EASYTOMAINTAIN",
+			"NIMBLEJUMPER"
+		]
+	},
+	"SDR-A": {
+		"quirks": [
+			"SDR-A",
+			"SDR-HERO"
+		]
+	},
+	"Stalker_MDL": {
+		"maxEngineRating": 310,
+		"quirks": [
+			"CBTCPU",
+			"UBIQUITOUS",
+			"MISSILEBOAT"
+		]
+	},
+	"STK-3FB": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"STK-M": {
+		"quirks": [
+			"STK-M",
+			"STK-HERO"
+		]
+	},
+	"Thunderbolt_MDL": {
+		"maxEngineRating": 315,
+		"quirks": [
+			"MULTITRAC",
+			"RUGGED2",
+			"UBIQUITOUS"
+		]
+	},
+    "TDR-10SE": {
+        "loadout": "TDR-10SE_Loadout_YAWUpgrade"
+    },
+	"TDR-5SS": {
+		"maxEngineRating": 350
+	},
+	"TDR-5S-T": {
+		"quirks": [
+			"TDR-5S-T",
+			"TDR-HERO"
+		]
+	},
+	"TDR-5S (P)": {
+		"quirks": [
+			"RUGGED2",
+			"MULTITRAC",
+			"UBIQUITOUS",
+			"TDR-HERO"
+		]
+	},
+	"Trebuchet_MDL": {
+		"maxEngineRating": 325,
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"FAST-RELOAD-TORSO"
+		]
+	},
+	"TBT-3C": {
+		"maxEngineRating": 390
+	},
+	"TBT-5P": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"TBT-LG": {
+		"quirks": [
+			"TBT-LG",
+			"TBT-HERO"
+		]
+	},
+	"Urbanmech_MDL": {
+		"maxEngineRating": 180,
+		"quirks": [
+			"FULL-TWIST",
+			"NARROW-PROFILE",
+			"UM-ASSAULT"
+		]
+	},
+    "UM-R68_MDA_EARLY": {
+        "loadout": "UM-R68_Loadout_EARLY_YAWUpgrade"
+    },
+    "UM-R80": {
+        "loadout": "UM-R80_Loadout_YAWUpgrade"
+    },
+	"UM-AIV": {
+		"quirks": [
+			"AIV-PLATFORM"
+		]
+	},
+	"UM-SA1": {
+		"quirks": [
+			"SOLARIS"
+		]
+	},
+	"UM-K9": {
+		"quirks": [
+			"UM-K9"
+		]
+	},
+	"UM-SC": {
+		"maxEngineRating": 210,
+		"quirks": [
+			"UM-SC"
+		]
+	},
+	"UM-R60 (S)": {
+		"quirks": [
+			"FULL-TWIST",
+			"NARROW-PROFILE",
+			"UM-ASSAULT",
+			"UM-SC"
+		]
+	},
+	"UM-K9 (S)": {
+		"quirks": [
+			"FULL-TWIST",
+			"NARROW-PROFILE",
+			"UM-ASSAULT",
+			"UM-K9"
+		]
+	},
+	"Victor_MDL": {
+		"maxEngineRating": 385,
+		"quirks": [
+			"RUGGED1"
+		]
+	},
+	"VTR-9P": {
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"VTR-DS": {
+		"maxEngineRating": 400,
+		"quirks": [
+			"VTR-DS",
+			"VTR-HERO"
+		]
+	},
+	"VTR-BSK": {
+		"maxEngineRating": 400,
+		"quirks": [
+			"VTR-BSK",
+			"VTR-HERO"
+		]
+	},
+	"Vindicator_MDL": {
+		"maxEngineRating": 250,
+		"quirks": [
+			"RUGGED1",
+			"DIFFICULT-EJECT"
+		]
+	},
+	"VND-1AA": {
+		"maxEngineRating": 300
+	},
+	"VND-1P": {
+		"maxEngineRating": 275,
+		"quirks": [
+			"MELEE"
+		]
+	},
+	"VND-1SIB": {
+		"maxEngineRating": 275,
+		"quirks": [
+			"VND-1SIB",
+			"VND-HERO"
+		]
+	},
+	"Vulcan_MDL": {
+		"maxEngineRating": 315,
+		"quirks": [
+			"NARROW-PROFILE"
+		]
+	},
+    "VL-6M": {
+        "loadout": "VL-6M_Loadout_YAWUpgrade"
+    },
+	"VL-X1": {
+		"quirks": [
+			"SOLARIS"
+		]
+	},
+	"VL-BL": {
+		"quirks": [
+			"VL-BL",
+			"VL-HERO"
+		]
+	},
+	"Warhammer_MDL": {
+		"maxEngineRating": 340,
+		"quirks": [
+			"SEARCHLIGHT",
+			"RUGGED2",
+			"STABLE",
+			"UBIQUITOUS"
+		]
+	},
+    "WHM-4L": {
+        "loadout": "WHM-4L_Loadout_YAWUpgrade"
+    },
+	"WHM-6RB": {
+		"quirks": [
+			"SLDF"
+		]
+	},
+	"WHM-9D": {
+        "loadout": "WHM-9D_Loadout_YAWUpgrade",
+		"maxEngineRating": 400,
+		"quirks": [
+			"WHM-9D"
+		]
+	},
+	"WHM-DNC": {
+		"quirks": [
+			"SOLARIS",
+			"WHM-DNC",
+			"WHM-HERO"
+		]
+	},
+	"WHM-BW": {
+		"quirks": [
+			"WHM-BW",
+			"WHM-HERO"
+		]
+	},
+	"Wolfhound_MDL": {
+		"maxEngineRating": 295,
+		"quirks": [
+			"EASYTOMAINTAIN"
+		]
+	},
+	"WLF-1": {
+		"maxEngineRating": 315
+	},
+	"WLF-GR": {
+		"quirks": [
+			"WLF-GR",
+			"WLF-HERO"
+		]
+	},
+	"WLF-1 (R)": {
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"WLF-HERO"
+		]
+	},
+	"Wolverine_MDL": {
+		"maxEngineRating": 360,
+		"quirks": [
+			"CMD-MECH",
+			"IMPROVED-COMS",
+			"PROTECTED-ACTUATOR",
+			"CRAMPED-COCKPIT",
+			"UBIQUITOUS"
+		]
+	},
+	"WVR-6K": {
+		"maxEngineRating": 375
+	},
+	"WVR-6R (P)": {
+		"quirks": [
+			"CMD-MECH",
+			"IMPROVED-COMS",
+			"PROTECTED-ACTUATOR",
+			"CRAMPED-COCKPIT",
+			"UBIQUITOUS",
+			"WVR-HERO"
+		]
+	},
+	"WVR-7H": {
+		"quirks": [
+			"WVR-7H",
+			"SLDF",
+			"WVR-HERO"
+		]
+	},
+	"WVR-Q": {
+		"quirks": [
+			"WVR-Q",
+			"WVR-HERO"
+		]
+	},
+	"Zeus_MDL": {
+		"maxEngineRating": 390,
+		"quirks": [
+			"BARREL-FIST (R)",
+			"EASYTOMAINTAIN"
+		]
+	},
+	"ZEU-6Y": {
+		"quirks": [
+			"IMP-COOLING-BINARY"
+		]
+	},
+	"ZEU-SA3": {
+		"quirks": [
+			"SOLARIS"
+		]
+	},
+	"ZEU-SK": {
+		"maxEngineRating": 400,
+		"quirks": [
+			"ZEU-SK",
+			"ZEU-HERO"
+		]
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Raven_SPECTER",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "tkil",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"IsMod": true,
+	"Installed": false
+}
